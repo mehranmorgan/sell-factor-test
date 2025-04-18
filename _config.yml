@@ -1,5 +1,4 @@
-theme: minima
 title: Sell Factor Test
 author: Mehran Abdollahi
-description: A test blog using GitHub Pages
-set theme to minima
+description: A test blog using GitHub Pages and the minima theme.
+theme: minima
